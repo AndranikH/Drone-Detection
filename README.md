@@ -10,7 +10,7 @@ A ground-based, multi-sensor drone detection project built on an ESP32-S3. The g
 - [x] Board verified (ESP32-S3, 16 MB flash, 8 MB PSRAM)
 - [x] WiFi scan and RSSI averaging
 - [x] External antenna test (large RSSI gain with antenna attached)
-- [ ] Range test (RSSI vs. distance)
+- [x] Range test (RSSI vs. distance)
 - [ ] BLE scan
 - [ ] WiFi promiscuous mode / packet capture
 - [ ] Remote ID parsing
